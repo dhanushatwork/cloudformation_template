@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-STACK_NAME="MyS3Stack"
+STACK_NAME="MyS3Stack-QA"
 TEMPLATE_FILE="S3_template.json"
 PARAM_FILE="S3_params.json"
 REGION="ap-south-1"   # Change this to your AWS region
